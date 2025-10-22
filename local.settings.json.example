@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AZURE_SEARCH_ENDPOINT": "https://your-search.search.windows.net",
+    "AZURE_SEARCH_KEY": "YOUR_KEY_HERE",
+    "AZURE_SEARCH_INDEX_NAME": "utterances",
+    "AZURE_OPENAI_ENDPOINT": "https://your-openai.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "YOUR_KEY_HERE",
+    "AZURE_OPENAI_DEPLOYMENT_NAME": "gpt-4",
+    "AZURE_STORAGE_CONNECTION_STRING": "YOUR_CONNECTION_STRING_HERE",
+    "DATA_LAKE_CONNECTION_STRING": "YOUR_CONNECTION_STRING_HERE",
+    "TENANT_ID": "YOUR_TENANT_ID",
+    "CLIENT_ID": "YOUR_CLIENT_ID",
+    "CLIENT_SECRET": "YOUR_CLIENT_SECRET"
+  }
+}
